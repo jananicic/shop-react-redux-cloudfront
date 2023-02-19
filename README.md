@@ -1,3 +1,9 @@
+# LINKS
+## S3 link
+https://janicic-tesla-store-app.s3.eu-central-1.amazonaws.com/
+## CloudFront link
+https://d31xsg83plb30x.cloudfront.net/
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
