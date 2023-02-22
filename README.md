@@ -1,6 +1,6 @@
 # LINKS
 ## S3 link
-https://janicic-tesla-store-app.s3.eu-central-1.amazonaws.com/
+http://janicic-tesla-store-app.s3-website.eu-central-1.amazonaws.com/
 ## CloudFront link
 https://d31xsg83plb30x.cloudfront.net/
 
