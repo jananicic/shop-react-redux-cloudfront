@@ -17,6 +17,7 @@ test("Renders products list", async () => {
       title: "Product 1",
       description: "Product 1 description",
       price: 1,
+      image_url: "`https://source.unsplash.com/random?sig=1",
       count: 1,
     },
     {
@@ -24,6 +25,7 @@ test("Renders products list", async () => {
       title: "Product 2",
       description: "Product 2 description",
       price: 2,
+      image_url: "`https://source.unsplash.com/random?sig=1",
       count: 2,
     },
   ];
